@@ -1,3 +1,3 @@
-# matt-synth-vst.proto
+# matt-synth.proto
 ..
 no-gui sorry about that
